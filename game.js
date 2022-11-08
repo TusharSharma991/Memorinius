@@ -1,4 +1,6 @@
 
+alert("Instructions " + "\n" + "1. Press any key on the keyboard to start." + "\n" + "2. Random one light will glow up with the sound as a level 1." + "\n" + "3. Click on the light glown up, if right, you will be promoted to next level." + "\n" + "4. At every stage one more light will be added to the sequence and you have to repeat the exact sequence from the starting till time to prgress in stages." + "\n" + "********************Let's see how far you can go**********************");
+
 var buttonColours = ["red", "blue", "green", "yellow"];
 
 var gamePattern = [];
